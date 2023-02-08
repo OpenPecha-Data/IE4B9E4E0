@@ -1,0 +1,16 @@
+id: IE4B9E4E0
+default_language: de
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:02:37.373903
+last_modified: 2023-02-08 15:02:37.373996
+source_metadata:
+  title: Dīrghāgama, sūtras no. 35-41
+  language: de
+bases:
+  49D8:
+    base_file: 49D8.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

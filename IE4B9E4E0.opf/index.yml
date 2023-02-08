@@ -1,0 +1,11 @@
+id: 2ed70b0a02ce4f48a30e229b4c961852
+annotation_type: index
+revision: '00001'
+annotations:
+  c15037bbd1ec448a8f46da44d4789af6:
+    base: 49D8.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 399
